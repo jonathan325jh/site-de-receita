@@ -1,11 +1,11 @@
 html{
-    background-color: rgb(231, 196, 186);
+    background-color: rgb(250, 180, 180);
 }
 
 
 .titulo2{
     h1{
-        background-color: rgb(179, 104, 50);
+        background-color: rgb(240, 87, 87);
         text-align: center;
         border-radius: 15px;
         padding-top: 15px;
@@ -46,9 +46,19 @@ hr{
 }
 
 .ingredientes2{
+    
     h2{
        
+        margin-left: 0%;
+        color: brown;
+        font-family: Arial, Helvetica, sans-serif;
+        
+    }
+
+    h3{
+       
         text-align: center;
+        margin-right: 1%;
         color: brown;
         font-family: Arial, Helvetica, sans-serif;
         font-weight: bold;
@@ -60,25 +70,20 @@ hr{
         
         
         
-        margin-left: 43%;
+        margin-left: 37%;
         font-weight: bold;
-        font-size: 21px;
+        font-size: 18px;
     }
     
-    h3{
-    
-        margin-left: 20;
-        font-family: Arial, Helvetica, sans-serif;
-        font-weight: bold;
-        font-size: 30px;
-    }
 }
  
 
 .modoPreparo2{
-         h3{
+         
+          h3{
             
             text-align: center;
+            color: brown;
             font-family: Arial, Helvetica, sans-serif;
             font-weight: bold;
             font-size: 30px;
@@ -86,17 +91,18 @@ hr{
             
         h2{
             
-            margin-left: 22%;
+            margin-left: 1%;
+            color: brown;
             font-family: Arial, Helvetica, sans-serif;
             font-weight: bold;
             font-size: 30px;
         }
-            
+       
 
          ul{
-            margin-left: 20%;
+            margin-left: 21%;
             font-weight: bold;
-            font-size: 20px;
+            font-size: 18px;
         }
          
 
@@ -111,10 +117,10 @@ hr{
        
         a  img{
 
-          width: 400px;
-           margin-left: 350px;
+           width: 300px;
+           margin-left: 300px;
            
 
         }
-    }
+}        
         
