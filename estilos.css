@@ -1,0 +1,84 @@
+html{
+    background-color: rgb(238, 162, 162);
+}
+
+
+.titulo2{
+    h1{
+        background-color: rgb(182, 56, 56);
+        text-align: center;
+        border-radius: 15px;
+        padding-top: 15px;
+        padding-bottom: 10px;
+        font-size: 40px;
+    }
+}
+
+.caracteristicas2{
+    h2{ 
+        margin-left: 30%;
+        color: brown;
+        font-weight: bold;
+        font-size: 27px;
+
+        }
+    p{
+    
+        margin-left: 30%;
+        font-weight: bold;
+        font-size: 27px;
+        color: brown;
+
+        }
+    }
+    img{
+         width: 450px;
+         margin-left: 33%;
+        
+    }
+
+
+hr{
+    border: 2px solid;
+    border-color: brown;
+}
+
+.ingredientes2{
+    h2{
+        margin-left: 30%;
+        font-weight: bold;
+        font-size: 27px;
+        }
+    ul{
+        margin-left: 30%;
+            font-weight: bold;
+            font-size: 27px;
+        }
+}
+ 
+.modoPreparo2{
+         h2{
+
+            margin-left: 30%;
+            font-weight: bold;
+            font-size: 27px;
+        }
+            
+    
+
+         ul{
+            margin-left: 30%;
+            font-weight: bold;
+            font-size: 27px;
+        }
+        } 
+        
+       
+       
+       
+        a  img{
+
+          width: 300px;
+           margin-left: 30px;
+
+        }
