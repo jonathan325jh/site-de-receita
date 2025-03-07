@@ -1,11 +1,11 @@
 html{
-    background-color: rgb(250, 180, 180);
+    background-color: rgb(245, 193, 193);
 }
 
 
 .titulo2{
     h1{
-        background-color: rgb(240, 87, 87);
+        background-color: rgb(240, 119, 119);
         text-align: center;
         border-radius: 15px;
         padding-top: 15px;
@@ -110,17 +110,24 @@ hr{
             border: 2px solid;
             border-color: brown;
         }
-        
+    }
 
+    .link{
             
+        margin-left: 1%;
+        font-size: 20px;
+
+   }
+       
+                
           
        
         a  img{
 
-           width: 300px;
-           margin-left: 300px;
+           width: 400px;
+           margin-left: 420px;
            
 
-        }
+        
 }        
         
